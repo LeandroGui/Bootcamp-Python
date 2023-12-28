@@ -3,8 +3,4 @@
 Impartido por: FESAT
 
 
-Ejercicios resueltos Modulos I - II - III
-
-Integrador-Repaso
-
-Examen de Certificación
+Ejercicios resueltos Modulos I - II - III // Integrador-Repaso // Examen de Certificación
